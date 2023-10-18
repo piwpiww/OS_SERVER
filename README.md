@@ -1,2 +1,6 @@
 # OS_SERVER
-GHFKLI
+Membuat Server dengan menggunakan
+
+- Web Server
+- SSH Server
+- DNS Server
