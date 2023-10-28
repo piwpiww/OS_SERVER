@@ -3,5 +3,5 @@ Membuat Server dengan menggunakan
 
 - Web Server
 - SSH Server
-- FTP Server
+- DNS Server
 - DHCP Server
