@@ -3,5 +3,4 @@ Membuat Server dengan menggunakan
 
 - Web Server
 - SSH Server
-- DNS Server
-- DHCP Server
+- Monitoring dengan Netdata
