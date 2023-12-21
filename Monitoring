@@ -1,0 +1,7 @@
+Monitoring dengan netdata
+$ sudo apt update
+$ sudo apt install -y netdata
+$ sudo nano /etc/netdata/netdata.conf
+$ sudo systemctl start netdata
+$ sudo systemctl enable netdata
+$ sudo systemctl status netdata
